@@ -1,0 +1,27 @@
+@import 'Grid.css';
+@import 'reset.css';
+@import 'layout.css';
+
+/* =============== STAR HEADER ==============*/
+header ul {
+    display: inline-block;
+    margin-left: 1em;
+}
+header ul li{
+    
+}
+/* ================ END HEADER ===============*/
+
+/* ================ STAR MAIN ===============*/
+main > img{
+    
+}
+/* ================ END MAIN ===============*/
+
+/* ================ STAR ASIDE ==============*/
+
+/* ================ END ASIDE ==============*/
+
+/* ================ STAR FOOTER ==============*/
+
+/* ================= END FOOTER ==============*/
